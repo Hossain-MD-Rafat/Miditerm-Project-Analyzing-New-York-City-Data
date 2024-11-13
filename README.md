@@ -20,5 +20,5 @@ Python (for data analysis, cleaning, and visualization)
 Libraries: pandas, numpy, matplotlib, seaborn, plotly
 SQL (for querying and managing data within PostgreSQL)
 Jupyter Notebook (for interactive data analysis and documentation)
-PostgreSQL (for database management and SQL-based querying)
+SQLite (for database management and SQL-based querying)
 Git (for version control and collaboration)
